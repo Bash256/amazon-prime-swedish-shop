@@ -1,0 +1,167 @@
+.Navbar a{
+    float: right;
+    color: #333333;
+    text-align: center;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 5px;
+}
+
+#HE {
+    text-align: center;
+}
+
+.container  {
+    display: inline-block;
+    padding: 20px;
+    border: 1px solid black;
+    width: 200px;
+    text-align: center;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.qty {
+    width: 50px;
+}
+
+#fr  {
+    width: 100px;
+    height: 150px;
+}
+
+#mic  {
+    width: 200px;
+    height: 150px;
+}
+
+#cf  {
+    width: 150px;
+    height: 150px;
+}
+
+#Clothes {
+    text-align: center;
+}
+
+#polo  {
+    width: 150px;
+    height: 150px;
+}
+
+#sw  {
+    width: 150px;
+    height: 150px;
+}
+
+#jn  {
+    width: 120px;
+    height: 150px;
+}
+
+#Toys {
+    text-align: center;
+}
+
+#lego  {
+    width: 150px;
+    height: 150px;
+}
+
+#fs  {
+    width: 150px;
+    height: 150px;
+}
+
+#sl  {
+    width: 120px;
+    height: 150px;
+}
+
+#Smartphones {
+    text-align: center;
+}
+
+#i7  {
+    width: 100px;
+    height: 150px;
+}
+
+#i8  {
+    width: 200px;
+    height: 150px;
+}
+
+#ix  {
+    width: 150px;
+    height: 150px;
+}
+
+#HF {
+    text-align: center;
+}
+
+#sofa  {
+    width: 200px;
+    height: 150px;
+}
+
+#bed  {
+    width: 200px;
+    height: 150px;
+}
+
+#cl  {
+    width: 150px;
+    height: 150px;
+}
+
+footer {
+    text-align: center;
+}
+
+#cart-container {
+    margin-top: 50px;
+    margin-left: 10px;
+}
+
+#myCart {
+    border-collapse: collapse;
+}
+
+#myCart tr td, th{
+padding: 10px;
+width: 200px;
+position: relative;
+}
+
+#myCart tr th {
+    background-color: black;
+    color: white;
+}
+
+#myCart tr td {
+    text-align: left;
+}
+
+#myCart tr td.qty2 {
+    text-align: center;
+    width: 50px;
+}
+
+#myCart tr td.right {
+    text-align: right;
+}
+
+.currency {
+    position: absolute;
+    left: 20px;
+}
+
+.add {
+    margin-top: 20px;
+}
+
+.subtotal {
+    font-weight: bold;
+}
